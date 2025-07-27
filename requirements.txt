@@ -1,0 +1,15 @@
+streamlit
+pymupdf
+pdfplumber
+spacy
+scikit-learn
+pandas
+numpy
+nltk
+yake
+rank_bm25
+sentence-transformers
+python-docx
+matplotlib
+seaborn
+joblib
